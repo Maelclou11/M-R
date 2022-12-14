@@ -27,7 +27,7 @@ section{
 header{
     z-index: 100;       /* J'ai add z-indez: 100; pour le monter dans l'axe des z comme dans unity pour qui sois auz dessus de tous */
     width: 100%;
-    background-color:black;
+    background-color:var(--main-color);
     padding: 15px 50px;
     position: fixed;
     top: 0;
