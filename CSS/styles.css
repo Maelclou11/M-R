@@ -141,12 +141,15 @@ header .bars img{
     background-size: cover;
 }
 .main-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     padding: 50px 50px;
     height: 100vh;
+
 }
 .main-text h2 {
     font-family: 'Poppins', sans serif;
-    text-align: center;
     
 }
 /* #endregion */
